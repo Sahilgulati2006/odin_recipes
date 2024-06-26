@@ -1,0 +1,29 @@
+
+.pizza {
+    padding: 50px;
+    margin: auto;
+    text-align: center;
+    display: block;
+    background-color: turquoise;
+    border: 25px solid blue;
+}
+.one {
+    font-size: xx-large;
+    font-weight: 900;
+
+    
+}
+.bread {
+    font-size: xx-large;
+    font-weight: 900;
+    margin-top: 50px;
+}
+.head {
+    font-size: xx-large;
+    padding: 2px;
+    text-align: center;
+    color: black
+}
+body {
+    background-color: grey;
+}
